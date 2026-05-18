@@ -11,7 +11,7 @@ Using manual log analysis techniques, the goal is to understand how attackers ga
 Additionally, this investigation highlights the importance of log visibility, monitoring, and proactive security measures in defending enterprise environments.
 
 
-## 🔍 Key Takeaways
+## Key Takeaways
 
 - Identification of VPN brute-force attacks through log analysis  
 - Detection of compromised user accounts and unauthorized access  
@@ -24,7 +24,7 @@ Additionally, this investigation highlights the importance of log visibility, mo
 - Understanding the importance of correlating multiple log sources  
 
 
-## 🧠 Skills Learned
+## Skills Learned
 
 - Log analysis (Firewall, VPN, IDS logs)  
 - Incident response and attack chain reconstruction  
@@ -36,7 +36,7 @@ Additionally, this investigation highlights the importance of log visibility, mo
 - Analytical thinking and investigative methodology  
 
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Kali Linux  
 - Linux Command Line (grep, cut, sort, uniq)  
@@ -58,7 +58,7 @@ This lab activity can be mapped to the following adversary tactics and technique
 - **Exfiltration (Potential)** – Data transfer over SMB  
 
 
-## 📄 Lab Report
+## Lab Report
 
 Click below to view the full investigation report:
 
