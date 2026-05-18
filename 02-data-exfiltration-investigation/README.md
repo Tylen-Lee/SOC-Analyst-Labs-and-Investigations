@@ -52,7 +52,7 @@ Using Linux command-line analysis techniques, suspicious hosts, external destina
 
 ## Lab Report
 
-[![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](./02-data-exfiltration-investigation/data-exfiltration-investigation.pdf)
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](data-exfiltration-investigation.pdf)
 
 
 
