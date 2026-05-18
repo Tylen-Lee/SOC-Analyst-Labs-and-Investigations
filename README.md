@@ -13,7 +13,7 @@ The labs are designed to strengthen analytical thinking, improve understanding o
 | Investigation | Focus Area | Status |
 |---|---|---|
 | VPN Compromise & Lateral Movement Investigation | VPN brute force, SMB lateral movement, C2 detection | ✅ Completed |
-| Data Exfiltration Investigation | DNS/data exfiltration analysis & threat hunting | 🛠 In Progress |
+| Data Exfiltration Investigation | DNS/data exfiltration analysis & threat hunting | ✅ Completed |
 
 ---
 
