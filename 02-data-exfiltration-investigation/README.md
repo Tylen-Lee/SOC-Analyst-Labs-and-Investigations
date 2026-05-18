@@ -54,13 +54,7 @@ Using Linux command-line analysis techniques, suspicious hosts, external destina
 
 [![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](data-exfiltration-investigation.pdf)
 
+<img width="1813" height="731" alt="image" src="https://github.com/user-attachments/assets/abb02565-fe92-4751-a480-5ce50a466266" />
 
 
 
----
-
-## Summary
-
-This investigation demonstrated how attackers may abuse protocols such as DNS and FTP to transfer data outside an organization.
-
-Manual log analysis techniques were used to identify suspicious communication patterns, investigate outbound connections, and confirm successful file transfer activity associated with data exfiltration.
