@@ -69,6 +69,21 @@ Analysis of a simulated enterprise compromise involving:
 
 ---
 
+### 🔹 Data Exfiltration Investigation
+
+Analysis of simulated data exfiltration activity involving:
+
+- DNS tunneling detection  
+- Suspicious outbound DNS requests  
+- Identification of covert communication patterns  
+- FTP-based file transfer analysis  
+- Detection of sensitive file uploads  
+- Investigation of external exfiltration destinations  
+- Network traffic inspection using logs and packet analysis  
+
+➡️ [View Investigation](./02-data-exfiltration-investigation)
+
+---
 ##  Ongoing Development
 
 This repository will continue to expand with additional SOC investigations and security analysis labs focused on:
